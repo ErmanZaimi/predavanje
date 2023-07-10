@@ -1,1 +1,2 @@
 # predavanje
+NEKI TEKST
